@@ -33,7 +33,7 @@
 
 <br/>
 
-## 🌐 What I'm Interested In
+## 🌐 What I'm Interested In (공부 목표)
 
 안정적이고 확장 가능한 시스템을 구축하는 것에 깊은 관심을 가지고 있습니다.
 
@@ -42,7 +42,7 @@
   - 클라우드 기반 시스템의 확장성과 안정성 설계
 
 - 👁️ **Observability**
-  - 관측성(Observability) 기반 운영 체계 구축
+  - 모니터링 기반 운영 체계 구축
   - Splunk 기반 분석 및 운영 자동화
 
 - 🚀 **Streaming Data**
@@ -60,5 +60,5 @@
   <br/><br/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=moonys2468&show_icons=true&theme=dark&include_all_commits=true" height="150px" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonys2468&layout=compact&theme=dark" height="150px" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=todayisMoonday&layout=compact&theme=dark" height="150px" alt="langs" />
 </div>

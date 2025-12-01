@@ -50,10 +50,10 @@
 
 <br/>
 
-## 📊 Stats & Algorithm
+## 📊 Algorithm
 
 <div align="center">
   <a href="https://solved.ac/moonys2468/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=moonys2468" height="110px" alt="Solved.ac"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=moonys2468" height="200px" alt="Solved.ac"/>
   </a>
 </div>

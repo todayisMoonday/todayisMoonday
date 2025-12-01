@@ -1,10 +1,4 @@
-# MOON YOON SEONG
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moonys2468)](https://solved.ac/moonys2468/)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
-
-🌥️ MOON YOON SEONG
+#🌥️ MOON YOON SEONG
 
 Cloud & Infrastructure Engineer
 데이터 흐름을 이해하고, 안정적인 인프라를 설계하는 것에 관심을 두고 있습니다.

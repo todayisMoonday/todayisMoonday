@@ -3,14 +3,14 @@
 # 🌥️ MOON YOON SEONG
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Cloud+%26+Infrastructure+Engineer;Building+Scalable+Data+Pipelines;Kafka+%C2%B7+AWS+%C2%B7+Monitoring" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Cloud+%26+Infrastructure+Engineer;Building+Scalable+Data+Pipelines;Splunk+%C2%B7+AWS+%C2%B7+Monitoring" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <p align="center">
   <b>안정적인 인프라를 구축하고 데이터를 수집, 분석하여 인사이트를 찾아내고자 공부하는 엔지니어 문윤성입니다.</b><br/>
-  Confluent Kafka · AWS · Linux · Monitoring 기반 프로젝트를 통해<br/>
+  AWS · Linux 기반 프로젝트를 통해<br/>
   클라우드 환경에서의 운영 구조와 데이터 파이프라인을 경험했습니다.
 </p>
 
@@ -44,9 +44,9 @@
 - 👁️ **Observability**
   - 모니터링 기반 운영 체계 구축
   - Splunk 기반 분석 및 운영 자동화
-
-- 🚀 **Streaming Data**
-  - 무중단 Kafka Cluster 운영 및 실시간 데이터 처리
+ 
+- 💡 **Data & Insights**
+  - 데이터 수집 및 분석을 통한 비즈니스 인사이트 추출
 
 <br/>
 
@@ -60,5 +60,4 @@
   <br/><br/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=moonys2468&show_icons=true&theme=dark&include_all_commits=true" height="150px" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=todayisMoonday&layout=compact&theme=dark" height="150px" alt="langs" />
 </div>
